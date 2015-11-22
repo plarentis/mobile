@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="AppTheme" parent="AppTheme.Base">
+        <item name="theme_color">@color/blue</item>
+        <item name="board_letter">@color/grey3</item>
+        <item name="word_list">@color/grey2</item>
+        <item name="board_background">@color/grey1</item>
+    </style>
+ 
+    <style name="AppTheme.Base" parent="android:Theme.Holo.Light">
+
+    </style>
+</resources>

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Caça Palavra</string>
+    <string name="dialog_color_picker">Selecione a cor desejada</string>
+    <string name="please_wait">Por favor, aguarde</string>
+    <string name="pref_summary_gridsize">Número de linhas e colunas</string>
+    <string name="pref_summary_language">Escolha um idioma para lista de palavras</string>
+    <string name="pref_summary_line_color">Determina uma cor fixa para seleção das palavras, desmarcado as cores são aleatórias</string>
+    <string name="pref_summary_num_words">Número de palavras aleatórias para selecionar a partir de banco de dados</string>
+    <string name="pref_summary_pencil_color">Alterar a cor do lápis</string>
+    <string name="pref_summary_pencil_corner">Lápis arredondado ou quadrado</string>
+    <string name="pref_summary_screen_lock">Vigiai dispositivo enquanto estiver jogando</string>
+    <string name="pref_title_gridsize">Tamanho do jogo</string>
+    <string name="pref_title_line_color">Lápis de cor fixo?</string>
+    <string name="pref_title_num_words">Contagem de palavras aleatórias</string>
+    <string name="pref_title_pencil_color">Cor do lápis</string>
+    <string name="pref_title_pencil_corner">Lápis arredondada?</string>
+    <string name="pref_title_screen_lock">Vigiai dispositivo</string>
+    <string name="press_color_to_apply">Pressione na cor desejada</string>
+    <string name="settings">Definições</string>
+    <string name="word_list">Palavras</string>
+    <string name="intro_text">Bem-vindo ao Caça Palavra Cidades do Brasil. O objetivo do jogo é encontrar todas as palavras escondidas, divirta-se.</string>
+    <string name="pref_summary_allow_substring">Permitir palavra em palavra ou não</string>
+    <string name="pref_title_allow_substring">Permitir substring</string>
+    <string name="info_text" translatable="false">Peterson Larentis\n\nDisciplina: Computação Móvel\n\nRA: 20486662</string>
+
+    
+    <string name="pref_key_language" translatable="false">language</string>
+    <string name="pref_key_grid_size" translatable="false">boardSize</string>
+	<string name="pref_allow_substring" translatable="false">allowSubstring</string>
+	<string name="pref_disable_screen_lock" translatable="false">disableScreenLock</string>
+	<string name="pref_key_line_color_mode" translatable="false">lineColorMode</string>
+	<string name="pref_key_line_color" translatable="false">lineColor</string>
+	<string name="pref_key_rounded_line" translatable="false">roundedLine</string>
+	<string name="pref_key_num_words_to_select" translatable="false">numWordsToSelect</string>
+    
+    	
+</resources>

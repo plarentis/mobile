@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="welcome_text_size">32sp</dimen>
+    <dimen name="intro_button_margin">35dp</dimen>
+    <dimen name="word_size">16sp</dimen>
+    <dimen name="intro_button_margin_land">30dp</dimen>
+    <dimen name="letter_size">36sp</dimen>
+    <dimen name="word_list_title_size">26sp</dimen>
+</resources>
